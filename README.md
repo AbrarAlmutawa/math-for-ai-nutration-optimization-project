@@ -1,1 +1,1 @@
-# math-for-ai---nutration-optimization-project
+# math-for-ai-nutration-optimization-project
